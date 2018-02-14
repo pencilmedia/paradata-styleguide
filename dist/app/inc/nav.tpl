@@ -9,7 +9,7 @@ The navigation item is selected by matching the 'data-id' and the "pageID" varia
        <li>
            <ul class="nav-stacked tree">
                 <li>
-                    <a href="/" class="btn btn-default" data-id="homepage">Return to Homepage</a>
+                    <a href="@@context/" class="btn btn-default" data-id="homepage">Return to Homepage</a>
                 </li>
            </ul>
        </li>
