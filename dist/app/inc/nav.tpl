@@ -9,7 +9,11 @@ The navigation item is selected by matching the 'data-id' and the "pageID" varia
        <li>
            <ul class="nav-stacked tree">
                 <li>
+<<<<<<< HEAD
                     <a href="@@context/portfolio/work/paradata/style-guide/dist/app/" class="btn btn-default" data-id="homepage">Return to Homepage</a>
+=======
+                    <a href="@@context/" class="btn btn-default" data-id="homepage">Return to Homepage</a>
+>>>>>>> 4e4d5bb03715fdfc1d100e39eb2a993ea6b6dd9b
                 </li>
            </ul>
        </li>
