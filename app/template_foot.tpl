@@ -18,37 +18,37 @@
     ================================================== -->
 
     <!--jQuery CDN -->
-    <script src="@@context/assets/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/bower_components/jquery/dist/jquery.min.js"></script>
 
     <!-- Plug-Ins -->
-    <script src="@@context/assets/bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/bower_components/fastclick/lib/fastclick.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/3.5.2/select2.min.js"></script>
-    <script src="@@context/assets/bower_components/jquery.truncator/jquery.truncator.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/bower_components/jquery.truncator/jquery.truncator.js"></script>
 
     <!-- Polyfills - create support for unsupported browsers
     ... Will be added here ... -->
 
     <!-- Bootstrap Components -->
-    <script src="@@context/assets/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 
     <!-- Plugins  -->
     <!-- plugins go here -->
 
     <!-- App JS -->
-    <script src="@@context/assets/js/app.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/js/app.js"></script>
 
     <!-- Components JS  -->
-    <script src="@@context/assets/js/components.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/js/components.js"></script>
 
     <!-- Component Library (Style Guide) Specific JS -->
-    <script src="@@context/assets/js/styleguide.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/js/styleguide.js"></script>
 
     <!-- Angular Library-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.min.js"></script>
 
 
     <!-- HighLight Plugin for code snippest -->
-    <script src="@@context/assets/bower_components/highlightjs/highlight.pack.js"></script>
+    <script src="@@context/portfolio/work/paradata/style-guide/dist/app/assets/bower_components/highlightjs/highlight.pack.js"></script>
     <script>hljs.configure({ 'languages': ['html', 'javascript'] });</script>
     <script type="text/javascript">
       $('pre code').each(function(i, item){

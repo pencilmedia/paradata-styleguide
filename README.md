@@ -1,4 +1,5 @@
 # paradata-styleguide
+``Paths for web host are href="@@context/portfolio/work/paradata/style-guide/dist/app/assets/fonts/" but paths for local copy should be href="@@context//assets/fonts/``
 
 ## What you need to have?
 
